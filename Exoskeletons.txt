@@ -1,0 +1,13 @@
+Name/level/damage/defense/dodge chance
+Cyrrollalee     7       700        8     75
+Brandobaris     3       350        4     30
+BigBad-Wolf     1       150        2     15
+WickedWitch     2       250        3     25
+Aasterinian     4       400        5     45
+Chronepsish     6       650        7     60
+Kiaransalee     8       850        9     85
+St-Shargaas     5       550        6     55
+Merrshaullk     10      1000       9     55
+St-Yeenoghu     9       950        8     90
+DocOck          6       600        6     55
+Exodia          10      1000       10    50

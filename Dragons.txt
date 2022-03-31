@@ -1,0 +1,13 @@
+Name/level/damage/defense/dodge chance
+Desghidorrah	 3       300       4     35
+Chrysophylax     2       200       5     20
+BunsenBurner	 4       400       5     45
+Natsunomeryu 	 1       100       2     10
+TheScaleless	 7       700       6     75
+Kas-Ethelinh     5       600       5     60
+Alexstraszan	 10      1000      9     55
+Phaarthurnax	 6       600       7     60
+D-Maleficent	 9       900       9     85
+TheWeatherbe 	 8       800       9     80
+Igneel           6       600       4     60
+BlueEyesWhite    9       900       6     75
